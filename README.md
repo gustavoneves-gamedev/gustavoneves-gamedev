@@ -1,4 +1,3 @@
-<img src="https://snowsstudios.itch.io/_app/immutable/assets/logo-white.svg" width="140" alt="Snows Studios Logo">
 
 # 👋 Hi, I'm Gustavo  
 ### Game Developer · Unity & C# · Solo Dev at **Snows Studios**
@@ -86,5 +85,5 @@ I’m currently improving:
 ---
 
 ### Thanks for visiting my GitHub!  
-<img src="https://media.tenor.com/WK6fn6f7YNoAAAAC/megaman-wave.gif" width="140">
+
 
