@@ -15,7 +15,7 @@ I love designing:
 ---
 
 ## 🎮 Current Project  
-### **Só o Cume Interessa**
+### **Só o Cume**
 
 A fun mobile arcade runner focused on **stamina management, lane switching, and fast decision-making.**
 The game emphasizes short sessions, progression systems, and mechanical clarity.
