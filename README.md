@@ -3,7 +3,7 @@
 ### Game Developer · Unity & C# · Solo Dev at **Snows Studios**
 
 I’m a solo game developer passionate about **creating abilities, progression systems and meaningful gameplay loops**.  
-Currently studying Digital Games at **PUC Minas (EAD)** and building my portfolio with Unity projects, game jams and experimental mechanics.
+Currently studying Digital Games at **PUC Minas** and building my portfolio with Unity projects, game jams and experimental mechanics.
 
 I love designing:
 - 🔮 player abilities and skill-based interactions  
@@ -15,17 +15,15 @@ I love designing:
 ---
 
 ## 🎮 Current Project  
-### **Helios Protocol — Arcade Roguelike Shooter**
+### **Só o Cume Interessa**
 
-🏆 **Built for GitHub Game Off 2025** (theme: *wave*)  
-🛠 **Engine:** Unity (C#)  
-🎮 Solo-developed arena shooter focused on **build crafting**, **progression**, and **enemy wave variety**.
+A fun mobile arcade runner focused on **stamina management, lane switching, and fast decision-making.**
+The game emphasizes short sessions, progression systems, and mechanical clarity.
 
-**Play the Game:**  
-👉 https://snowsstudios.itch.io/helios-protocol-demo  
+📌 Repository:
+👉 https://github.com/gustavoneves-gamedev/OCume
 
-**Source Code (scripts only):**  
-👉 https://github.com/gustavoneves-gamedev/helios-protocol-game-off-2025-scripts
+Currently in early development — design, systems, and prototypes in progress.
 
 ---
 
@@ -49,15 +47,28 @@ I love designing:
 
 ## 📂 Featured Projects
 
+### 🎮 **Helios Protocol — Public Demo**
+
+A top-down arcade roguelike shooter where you pilot an experimental hover tank and survive escalating waves of alien forces.
+The game focuses on build crafting, ability choices, and progression after each wave.
+
+🛠 Engine: Unity (C#)
+👤 Development: Solo project
+🎮 Status: Public demo (in active development)
+
+▶️ Play / Download (Recommended)
+👉 https://snowsstudios.itch.io/helios-protocol
+
+
 ### 🎮 **Helios Protocol — Game Off 2025**
 Roguelike shooter developed as a solo project for the GitHub Game Off Jam.  
-Focused on build-crafting, waves, abilities, and enemy progression.  
+This version is kept online as an archive of the jam build and development history.
 
 **Links:**  
 - Play on Itch.io: https://snowsstudios.itch.io/helios-protocol-demo  
 - Source code: https://github.com/gustavoneves-gamedev/helios-protocol-game-off-2025-scripts  
 
-> *More projects coming soon — prototypes, ability systems, wave systems, and AI experiments.*
+- Updated Version: https://snowsstudios.itch.io/helios-protocol
 
 ---
 
